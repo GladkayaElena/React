@@ -1,0 +1,19 @@
+.header{
+    position: absolute;
+    top: 0;
+    width: 1175px;
+    height: 215px;
+    background-repeat: no-repeat;
+}
+
+.link a {
+    display: block;
+    height: 70px;
+    width: 260px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 720px;
+    right: 0;
+    top: 70px;
+}

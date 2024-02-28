@@ -1,0 +1,77 @@
+.menu{
+    width: 280px;
+    min-height: 1580px;
+    float: right;
+    background-color: #383838;
+    border-radius: 4px;
+    margin-top: -1203px;
+}
+
+.inner{
+    width: 280px;
+    height: 41px;
+    margin: 0 auto;
+    padding-top: 11px;
+    position: relative;
+    margin-top: 0px;
+    padding: 10px 10px 10px 10px;
+}
+
+.ico{
+    right: 0;
+    padding: 3px;
+    pointer-events: none;
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+}
+
+.form{
+    width: 260px;
+    height: 30px;
+    font-size: 15px!important;
+    border-radius: 4px;
+    padding: 10px;
+    font-family: pt sans,sans-serif;
+}
+
+.menu-blok{
+    width: 280px;
+    background-color: #383838;
+}
+
+.menu_blok{
+    position: relative;
+    width: 260px;
+    height: auto;
+    min-height: 350px;
+    padding-bottom: 10px;
+    background-color: #282829;
+    margin: 10px;
+    font-family: pt sans,sans-serif;
+    border-radius: 4px;
+}
+
+.img3 {
+    margin: 10px 10px 0;
+    object-fit: cover;
+    width: 240px;
+}
+
+.icon{
+    margin-top: 5px;
+    right: 15px;
+    height: 19px;
+    position: absolute;
+}
+
+.inner .ico {
+    position: absolute;
+
+    pointer-events: none;
+}
+
